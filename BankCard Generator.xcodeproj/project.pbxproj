@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1FEFE5B12D0F869600A24FD2 /* Card_GeneratorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5B02D0F869600A24FD2 /* Card_GeneratorApp.swift */; };
+		1FEFE5B12D0F869600A24FD2 /* BankCard_GeneratorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5B02D0F869600A24FD2 /* BankCard_GeneratorApp.swift */; };
 		1FEFE5B32D0F869600A24FD2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5B22D0F869600A24FD2 /* ContentView.swift */; };
 		1FEFE5B52D0F869700A24FD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FEFE5B42D0F869700A24FD2 /* Assets.xcassets */; };
 		1FEFE5B82D0F869700A24FD2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FEFE5B72D0F869700A24FD2 /* Preview Assets.xcassets */; };
-		1FEFE5C22D0F869800A24FD2 /* Card_GeneratorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5C12D0F869800A24FD2 /* Card_GeneratorTests.swift */; };
-		1FEFE5CC2D0F869800A24FD2 /* Card_GeneratorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5CB2D0F869800A24FD2 /* Card_GeneratorUITests.swift */; };
-		1FEFE5CE2D0F869800A24FD2 /* Card_GeneratorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5CD2D0F869800A24FD2 /* Card_GeneratorUITestsLaunchTests.swift */; };
+		1FEFE5C22D0F869800A24FD2 /* BankCard_GeneratorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5C12D0F869800A24FD2 /* BankCard_GeneratorTests.swift */; };
+		1FEFE5CC2D0F869800A24FD2 /* BankCard_GeneratorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5CB2D0F869800A24FD2 /* BankCard_GeneratorUITests.swift */; };
+		1FEFE5CE2D0F869800A24FD2 /* BankCard_GeneratorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEFE5CD2D0F869800A24FD2 /* BankCard_GeneratorUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,16 +34,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1FEFE5AD2D0F869600A24FD2 /* Card Generator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Card Generator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FEFE5B02D0F869600A24FD2 /* Card_GeneratorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card_GeneratorApp.swift; sourceTree = "<group>"; };
+		1FEFE5AD2D0F869600A24FD2 /* BankCard Generator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BankCard Generator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FEFE5B02D0F869600A24FD2 /* BankCard_GeneratorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankCard_GeneratorApp.swift; sourceTree = "<group>"; };
 		1FEFE5B22D0F869600A24FD2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1FEFE5B42D0F869700A24FD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1FEFE5B72D0F869700A24FD2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		1FEFE5BD2D0F869800A24FD2 /* Card GeneratorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Card GeneratorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FEFE5C12D0F869800A24FD2 /* Card_GeneratorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card_GeneratorTests.swift; sourceTree = "<group>"; };
-		1FEFE5C72D0F869800A24FD2 /* Card GeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Card GeneratorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FEFE5CB2D0F869800A24FD2 /* Card_GeneratorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card_GeneratorUITests.swift; sourceTree = "<group>"; };
-		1FEFE5CD2D0F869800A24FD2 /* Card_GeneratorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card_GeneratorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1FEFE5BD2D0F869800A24FD2 /* BankCard GeneratorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BankCard GeneratorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FEFE5C12D0F869800A24FD2 /* BankCard_GeneratorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankCard_GeneratorTests.swift; sourceTree = "<group>"; };
+		1FEFE5C72D0F869800A24FD2 /* BankCard GeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BankCard GeneratorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FEFE5CB2D0F869800A24FD2 /* BankCard_GeneratorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankCard_GeneratorUITests.swift; sourceTree = "<group>"; };
+		1FEFE5CD2D0F869800A24FD2 /* BankCard_GeneratorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankCard_GeneratorUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,9 +74,9 @@
 		1FEFE5A42D0F869600A24FD2 = {
 			isa = PBXGroup;
 			children = (
-				1FEFE5AF2D0F869600A24FD2 /* Card Generator */,
-				1FEFE5C02D0F869800A24FD2 /* Card GeneratorTests */,
-				1FEFE5CA2D0F869800A24FD2 /* Card GeneratorUITests */,
+				1FEFE5AF2D0F869600A24FD2 /* BankCard Generator */,
+				1FEFE5C02D0F869800A24FD2 /* BankCard GeneratorTests */,
+				1FEFE5CA2D0F869800A24FD2 /* BankCard GeneratorUITests */,
 				1FEFE5AE2D0F869600A24FD2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -84,22 +84,22 @@
 		1FEFE5AE2D0F869600A24FD2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1FEFE5AD2D0F869600A24FD2 /* Card Generator.app */,
-				1FEFE5BD2D0F869800A24FD2 /* Card GeneratorTests.xctest */,
-				1FEFE5C72D0F869800A24FD2 /* Card GeneratorUITests.xctest */,
+				1FEFE5AD2D0F869600A24FD2 /* BankCard Generator.app */,
+				1FEFE5BD2D0F869800A24FD2 /* BankCard GeneratorTests.xctest */,
+				1FEFE5C72D0F869800A24FD2 /* BankCard GeneratorUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1FEFE5AF2D0F869600A24FD2 /* Card Generator */ = {
+		1FEFE5AF2D0F869600A24FD2 /* BankCard Generator */ = {
 			isa = PBXGroup;
 			children = (
-				1FEFE5B02D0F869600A24FD2 /* Card_GeneratorApp.swift */,
+				1FEFE5B02D0F869600A24FD2 /* BankCard_GeneratorApp.swift */,
 				1FEFE5B22D0F869600A24FD2 /* ContentView.swift */,
 				1FEFE5B42D0F869700A24FD2 /* Assets.xcassets */,
 				1FEFE5B62D0F869700A24FD2 /* Preview Content */,
 			);
-			path = "Card Generator";
+			path = "BankCard Generator";
 			sourceTree = "<group>";
 		};
 		1FEFE5B62D0F869700A24FD2 /* Preview Content */ = {
@@ -110,29 +110,29 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		1FEFE5C02D0F869800A24FD2 /* Card GeneratorTests */ = {
+		1FEFE5C02D0F869800A24FD2 /* BankCard GeneratorTests */ = {
 			isa = PBXGroup;
 			children = (
-				1FEFE5C12D0F869800A24FD2 /* Card_GeneratorTests.swift */,
+				1FEFE5C12D0F869800A24FD2 /* BankCard_GeneratorTests.swift */,
 			);
-			path = "Card GeneratorTests";
+			path = "BankCard GeneratorTests";
 			sourceTree = "<group>";
 		};
-		1FEFE5CA2D0F869800A24FD2 /* Card GeneratorUITests */ = {
+		1FEFE5CA2D0F869800A24FD2 /* BankCard GeneratorUITests */ = {
 			isa = PBXGroup;
 			children = (
-				1FEFE5CB2D0F869800A24FD2 /* Card_GeneratorUITests.swift */,
-				1FEFE5CD2D0F869800A24FD2 /* Card_GeneratorUITestsLaunchTests.swift */,
+				1FEFE5CB2D0F869800A24FD2 /* BankCard_GeneratorUITests.swift */,
+				1FEFE5CD2D0F869800A24FD2 /* BankCard_GeneratorUITestsLaunchTests.swift */,
 			);
-			path = "Card GeneratorUITests";
+			path = "BankCard GeneratorUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1FEFE5AC2D0F869600A24FD2 /* Card Generator */ = {
+		1FEFE5AC2D0F869600A24FD2 /* BankCard Generator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1FEFE5D12D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "Card Generator" */;
+			buildConfigurationList = 1FEFE5D12D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "BankCard Generator" */;
 			buildPhases = (
 				1FEFE5A92D0F869600A24FD2 /* Sources */,
 				1FEFE5AA2D0F869600A24FD2 /* Frameworks */,
@@ -142,14 +142,14 @@
 			);
 			dependencies = (
 			);
-			name = "Card Generator";
+			name = "BankCard Generator";
 			productName = "Card Generator";
-			productReference = 1FEFE5AD2D0F869600A24FD2 /* Card Generator.app */;
+			productReference = 1FEFE5AD2D0F869600A24FD2 /* BankCard Generator.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1FEFE5BC2D0F869800A24FD2 /* Card GeneratorTests */ = {
+		1FEFE5BC2D0F869800A24FD2 /* BankCard GeneratorTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1FEFE5D42D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "Card GeneratorTests" */;
+			buildConfigurationList = 1FEFE5D42D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "BankCard GeneratorTests" */;
 			buildPhases = (
 				1FEFE5B92D0F869800A24FD2 /* Sources */,
 				1FEFE5BA2D0F869800A24FD2 /* Frameworks */,
@@ -160,14 +160,14 @@
 			dependencies = (
 				1FEFE5BF2D0F869800A24FD2 /* PBXTargetDependency */,
 			);
-			name = "Card GeneratorTests";
+			name = "BankCard GeneratorTests";
 			productName = "Card GeneratorTests";
-			productReference = 1FEFE5BD2D0F869800A24FD2 /* Card GeneratorTests.xctest */;
+			productReference = 1FEFE5BD2D0F869800A24FD2 /* BankCard GeneratorTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		1FEFE5C62D0F869800A24FD2 /* Card GeneratorUITests */ = {
+		1FEFE5C62D0F869800A24FD2 /* BankCard GeneratorUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1FEFE5D72D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "Card GeneratorUITests" */;
+			buildConfigurationList = 1FEFE5D72D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "BankCard GeneratorUITests" */;
 			buildPhases = (
 				1FEFE5C32D0F869800A24FD2 /* Sources */,
 				1FEFE5C42D0F869800A24FD2 /* Frameworks */,
@@ -178,9 +178,9 @@
 			dependencies = (
 				1FEFE5C92D0F869800A24FD2 /* PBXTargetDependency */,
 			);
-			name = "Card GeneratorUITests";
+			name = "BankCard GeneratorUITests";
 			productName = "Card GeneratorUITests";
-			productReference = 1FEFE5C72D0F869800A24FD2 /* Card GeneratorUITests.xctest */;
+			productReference = 1FEFE5C72D0F869800A24FD2 /* BankCard GeneratorUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1FEFE5A82D0F869600A24FD2 /* Build configuration list for PBXProject "Card Generator" */;
+			buildConfigurationList = 1FEFE5A82D0F869600A24FD2 /* Build configuration list for PBXProject "BankCard Generator" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +219,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1FEFE5AC2D0F869600A24FD2 /* Card Generator */,
-				1FEFE5BC2D0F869800A24FD2 /* Card GeneratorTests */,
-				1FEFE5C62D0F869800A24FD2 /* Card GeneratorUITests */,
+				1FEFE5AC2D0F869600A24FD2 /* BankCard Generator */,
+				1FEFE5BC2D0F869800A24FD2 /* BankCard GeneratorTests */,
+				1FEFE5C62D0F869800A24FD2 /* BankCard GeneratorUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,7 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FEFE5B32D0F869600A24FD2 /* ContentView.swift in Sources */,
-				1FEFE5B12D0F869600A24FD2 /* Card_GeneratorApp.swift in Sources */,
+				1FEFE5B12D0F869600A24FD2 /* BankCard_GeneratorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1FEFE5C22D0F869800A24FD2 /* Card_GeneratorTests.swift in Sources */,
+				1FEFE5C22D0F869800A24FD2 /* BankCard_GeneratorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +274,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1FEFE5CE2D0F869800A24FD2 /* Card_GeneratorUITestsLaunchTests.swift in Sources */,
-				1FEFE5CC2D0F869800A24FD2 /* Card_GeneratorUITests.swift in Sources */,
+				1FEFE5CE2D0F869800A24FD2 /* BankCard_GeneratorUITestsLaunchTests.swift in Sources */,
+				1FEFE5CC2D0F869800A24FD2 /* BankCard_GeneratorUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,12 +284,12 @@
 /* Begin PBXTargetDependency section */
 		1FEFE5BF2D0F869800A24FD2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1FEFE5AC2D0F869600A24FD2 /* Card Generator */;
+			target = 1FEFE5AC2D0F869600A24FD2 /* BankCard Generator */;
 			targetProxy = 1FEFE5BE2D0F869800A24FD2 /* PBXContainerItemProxy */;
 		};
 		1FEFE5C92D0F869800A24FD2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1FEFE5AC2D0F869600A24FD2 /* Card Generator */;
+			target = 1FEFE5AC2D0F869600A24FD2 /* BankCard Generator */;
 			targetProxy = 1FEFE5C82D0F869800A24FD2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -421,8 +421,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Card Generator/Preview Content\"";
-				DEVELOPMENT_TEAM = X8YE27GARE;
+				DEVELOPMENT_ASSET_PATHS = "\"BankCard Generator/Preview Content\"";
+				DEVELOPMENT_TEAM = T4CJPBJCFJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -435,7 +435,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "np.com.esewa.chudal.rishav.Card-Generator";
+				PRODUCT_BUNDLE_IDENTIFIER = "np.com.esewa.chudal.rishav.BankCard-Generator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -450,8 +450,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Card Generator/Preview Content\"";
-				DEVELOPMENT_TEAM = X8YE27GARE;
+				DEVELOPMENT_ASSET_PATHS = "\"BankCard Generator/Preview Content\"";
+				DEVELOPMENT_TEAM = T4CJPBJCFJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -464,7 +464,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "np.com.esewa.chudal.rishav.Card-Generator";
+				PRODUCT_BUNDLE_IDENTIFIER = "np.com.esewa.chudal.rishav.BankCard-Generator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -488,7 +488,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Card Generator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Card Generator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BankCard Generator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BankCard Generator";
 			};
 			name = Debug;
 		};
@@ -508,7 +508,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Card Generator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Card Generator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BankCard Generator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BankCard Generator";
 			};
 			name = Release;
 		};
@@ -551,7 +551,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1FEFE5A82D0F869600A24FD2 /* Build configuration list for PBXProject "Card Generator" */ = {
+		1FEFE5A82D0F869600A24FD2 /* Build configuration list for PBXProject "BankCard Generator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FEFE5CF2D0F869800A24FD2 /* Debug */,
@@ -560,7 +560,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1FEFE5D12D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "Card Generator" */ = {
+		1FEFE5D12D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "BankCard Generator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FEFE5D22D0F869800A24FD2 /* Debug */,
@@ -569,7 +569,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1FEFE5D42D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "Card GeneratorTests" */ = {
+		1FEFE5D42D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "BankCard GeneratorTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FEFE5D52D0F869800A24FD2 /* Debug */,
@@ -578,7 +578,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1FEFE5D72D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "Card GeneratorUITests" */ = {
+		1FEFE5D72D0F869800A24FD2 /* Build configuration list for PBXNativeTarget "BankCard GeneratorUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FEFE5D82D0F869800A24FD2 /* Debug */,
